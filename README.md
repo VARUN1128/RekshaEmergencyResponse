@@ -1,2 +1,3 @@
-# RekshaEmergencyResponse
- Introducing a haptic watch using MQTT encoding for swift signals in emergencies. Rechargeable lithium-ion battery powered by body heat ensures uninterrupted functionality.
+
+"Reksha"... A new solution to personal safety and emergency situations"Reksha"... A new solution to personal safety and emergency situations
+In emergency situations, the rapid and efficient transmission of signals is paramount to ensure the safety and well-being of individuals, particularly in areas plagued by limited or unreliable network connectivity(like flood situations). To address this challenge, we introduce an innovative haptic device designed in the form of a watch, which harnesses the power of MQTT encoding for streamlined signal transmission. This device offers a unique solution by incorporating a rechargeable lithium-ion battery, rejuvenated through thermal energy harvesting from the user's body, thereby ensuring extended battery life and uninterrupted functionality.
